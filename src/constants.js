@@ -1,0 +1,1 @@
+export const BASE_URL = "http://10.5.50.222/api/v1/"
